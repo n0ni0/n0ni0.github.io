@@ -6,7 +6,6 @@ description: En este post vamos a configurar xdebug en el IDE PhpStorm usando el
 img: configurar-xdebug/configurar_xdebug.png # Add image post (optional)
 tags: [Docker, Lamp, phpStorm, xdebug] # add tag
 ---
-![Docker]({{site.baseurl}}/assets/img/configurar-xdebug/configurar_xdebug.png)
 
 En este post vamos a configurar xdebug en el IDE [phpStorm](https://www.jetbrains.com/phpstorm/){:target="_blank"} usando el entorno docker que configuramos en el post anterior, [entornos de desarrollo lamp con docker](https://antoniojimenezvelazquez.es/tutoriales/entornos-de-desarrollo-lamp-con-docker/){:target="_blank"}
 
