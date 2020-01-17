@@ -1194,6 +1194,10 @@ a.newer-posts:hover {
           transform: translateX(-5px);
 }
 
+.certification {
+  text-align: center;
+}
+
 /* - - - - - - - - - - Post Page Styles - - - - - - - - - - */
 .wrap-content {
   padding: 20px;
