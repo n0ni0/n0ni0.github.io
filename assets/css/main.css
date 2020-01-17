@@ -979,6 +979,13 @@ table tfoot td {
   font-weight: 700;
 }
 
+.company {
+  color: #515151;
+  display: block;
+  padding: 5px;
+  text-decoration: unset;
+}
+
 .about .author-name::after {
   content: "";
   position: absolute;
