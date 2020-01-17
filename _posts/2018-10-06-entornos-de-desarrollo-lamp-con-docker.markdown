@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Entornos de desarrollo lamp con docker
-date: 06/10/2019
+date: 06/10/2018
 description: En nuestro primer post vamos a configurar usando docker un entorno de desarrollo LAMP bajo Linux usando la distribución Debían. # Add post description (optional)
 img: entornos-docker-lamp/docker.png # Add image post (optional)
 tags: [Docker, Lamp, Linux] # add tag

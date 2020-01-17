@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Crear un módulo en Magento 2
-date: 06/10/2019
+date: 06/10/2018
 description: Vamos a empezar una nueva sección dedicada a Magento 2, tratando temas tanto de frontend como de backend. En esta ocasión vamos a crear un módulo básico que nos muestre por pantalla la frase “Hello World”. # Add post description (optional)
 img: modulo-m2/module_m2.png # Add image post (optional)
 tags: [Magento2, Tutoriales] # add tag

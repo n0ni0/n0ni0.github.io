@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Configurar xdebug en phpstorm en nuestro entorno docker
-date: 06/10/2019
+date: 06/10/2018
 description: En este post vamos a configurar xdebug en el IDE PhpStorm usando el entorno docker que configuramos en el post anterior, entornos de desarrollo lamp con docker # Add post description (optional)
 img: configurar-xdebug/configurar_xdebug.png # Add image post (optional)
 tags: [Docker, Lamp, phpStorm, xdebug] # add tag
