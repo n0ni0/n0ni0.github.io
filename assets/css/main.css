@@ -1310,6 +1310,13 @@ a.newer-posts:hover {
   text-decoration: underline;
 }
 
+.page-footer.tag {
+  margin: unset;
+  display: inline-block;
+  float: right;
+  border-bottom: unset;
+}
+
 /* - - - - - - - - - - Tag Styles - - - - - - - - - - */
 .blog-tags {
   width: 100%;
